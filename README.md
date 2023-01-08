@@ -27,8 +27,3 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 - Saga
 - Leaflet
 
-#### Планы по доработке проекта:
-
-- Доработать типизацию
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
